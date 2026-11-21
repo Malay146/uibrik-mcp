@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.uibrik/components",
+  "title": "uibrik",
+  "description": "Search animated React components and get their props and source to install with shadcn.",
+  "websiteUrl": "https://uibrik.com/docs/mcp",
+  "repository": { "url": "https://github.com/Malay146/uibrik-mcp", "source": "github" },
+  "version": "1.0.0",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://uibrik.com/mcp" }
+  ]
+}

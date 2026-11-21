@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "uibrik": {
+      "type": "http",
+      "url": "https://uibrik.com/mcp"
+    }
+  }
+}
