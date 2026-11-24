@@ -1,5 +1,7 @@
 # uibrik MCP server
 
+[![uibrik MCP connector](https://glama.ai/mcp/connectors/com.uibrik/components/badges/score.svg)](https://glama.ai/mcp/connectors/com.uibrik/components)
+
 A remote [Model Context Protocol](https://modelcontextprotocol.io) server that lets AI coding agents search [uibrik](https://uibrik.com)'s animated React components and install them into your project.
 
 - **Endpoint:** `https://uibrik.com/mcp` (Streamable HTTP)
